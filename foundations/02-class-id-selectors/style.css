@@ -1,0 +1,18 @@
+.light-red {
+  background-color: pink;
+}
+
+#first {
+  color: blue;
+  font-size: 36px;
+}
+
+.med {
+  font-size: 24px;
+}
+
+#second {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
